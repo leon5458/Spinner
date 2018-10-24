@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="proince_arr">
+        <item>浦东新区</item>
+        <item>嘉定区</item>
+        <item>宝山区</item>
+        <item>杨浦区</item>
+        <item>航头镇</item>
+        <item>下沙镇</item>
+        <item>鹤永路</item>
+        <item>鹤雷路</item>
+        <item>鹤涛路</item>
+    </string-array>
+</resources>
